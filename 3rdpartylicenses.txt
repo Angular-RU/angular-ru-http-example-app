@@ -26,9 +26,6 @@ SOFTWARE.
 @angular-ru/common
 MIT
 
-@angular-ru/http
-MIT
-
 @angular-ru/sdk
 MIT
 
